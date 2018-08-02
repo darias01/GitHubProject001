@@ -11,6 +11,7 @@ namespace GitHubProject001Console
         static void Main(string[] args)
         {
             Console.WriteLine("testing ... branch01");
+            Console.WriteLine("testing ... branch01 : commit 20180802 1653");
         }
     }
 }
