@@ -10,8 +10,7 @@ namespace GitHubProject001Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testing ...");
-            Console.WriteLine("testing ... branch02");
+            Console.WriteLine("testing ... branch03");
         }
     }
 }
