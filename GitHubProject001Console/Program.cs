@@ -25,6 +25,7 @@ namespace GitHubProject001Console
             Console.WriteLine("testing ... branchA03 : commit 20180803 1629");
 
             Console.WriteLine("testing ... branchB01 : commit 20180806 0821");
+            Console.WriteLine("testing ... branchB02 : commit 20180806 0834");
         }
     }
 }
