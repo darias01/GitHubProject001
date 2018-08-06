@@ -10,5 +10,7 @@ namespace GitHubProject001Console
     {
         string attribute01;
         string attributeB01;
+        string attributeB01_01;
+        string attributeB01_02;
     }
 }
